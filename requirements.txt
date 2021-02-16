@@ -1,0 +1,3 @@
+geemap
+gunicorn==19.7.1
+psycopg2==2.5.3
